@@ -1,0 +1,49 @@
+body {
+    font: 15px verdana ;
+    max-width: 800px;
+	margin: auto;
+    }
+ 
+.navbar{
+    background-color: #a8b3cb;
+    text-align: center;
+    border-right: 0mm;
+}
+
+.logofln{
+    border-radius: 35px ;
+}
+
+.logoarraial{
+    border-radius: 35px ;
+}
+.quem-somos{
+    background-color: rgb(222, 248, 239);
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 50px;
+   
+
+}
+
+.parceiros{
+    background-color: rgb(197, 217, 235);
+    padding-top: 40px;
+}
+
+.movimentoqueapoiamos{
+    background-color: rgb(182, 146, 163);
+    padding-top: 40px;
+}
+
+.reservas{
+    background-color: #a8b3cb;
+}
+
+.bg-footer{
+    background-color: rgb(253, 250, 250);
+    color: black ;
+    text-size-adjust: 3px;
+}
